@@ -23,6 +23,8 @@
   - CompetitionOpenSince [Month/Year]: provides an estimate of the date when competition was open
   - Promo2: Promo2 is a continuing and consecutive promotion for some stores (0 = store is not participating, 1 = store is participating)
   - Promo2Since [Year/Week]: date when the store started participating in Promo2
-  - PromoInterval: describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov"     means each round starts in February, May, August, November of any given year for that store
+  - PromoInterval: describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov"     means each round starts in February, May, August, November of any given year for that store.
+
+[Dataset Correlation Matrix](https://github.com/aeshna25/Future-Daily-Sales-/blob/main/Images/datasetcorr.png)
 
 
